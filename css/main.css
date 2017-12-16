@@ -24,11 +24,11 @@ nav ul {
   flex-direction: row;
   background-color: rgb(255, 180, 117);
 }
-nav ul li{
+/*nav ul li{
   margin: auto;
   list-style: none;
   font-size: 20px;
-}
+}*/
 nav ul li a{
    width: 30%;
 }
