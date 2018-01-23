@@ -39,16 +39,36 @@ nav ul li input{
   width: 100%;
 }
 
+
 .mainSection{
   width: 100%;
   display: flex;
 
 }
 .mainSection .campusTag-row{
-
+width: 35%;
 }
 
 .mainSection .campusTag-row .campusTag-wrapper{
   background: rgba(195, 195, 195, 0.22);
-  flex-grow: 2
+  flex-grow: 2;
+}
+
+.aside-section{
+  width: 30%;
+}
+.aside-section ul{
+  width: 100%;
+}
+
+.aside-section ul li{
+  width: 100%
+}
+
+.middle-section{
+  width: 100%;
+}
+
+.middle-section h1{
+  background: lightblue;
 }
