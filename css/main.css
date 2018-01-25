@@ -44,6 +44,7 @@ nav ul li input{
   width: 100%;
   display: flex;
 
+
 }
 .mainSection .campusTag-row{
 width: 35%;
@@ -55,7 +56,9 @@ width: 35%;
 }
 
 .aside-section{
+  background: yellow;
   width: 30%;
+  height: 100px;
 }
 .aside-section ul{
   width: 100%;
@@ -71,4 +74,8 @@ width: 35%;
 
 .middle-section h1{
   background: lightblue;
+}
+.middle-section p{
+  background: orange;
+  width: 63%;
 }
