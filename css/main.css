@@ -51,20 +51,20 @@ nav ul li input{
 }
 
 .mainSection .campusTag-row{
-  width: 100%;
-  border: 1px solid black;
-  height: 66px;
-  box-shadow: 0px 7px 5px #493d3d;
+  width: 35%;
+  padding-top: 8%;
+  padding-left: 2%;
+  height: 95px;
 }
 
 .mainSection .campusTag-row .campusTag-wrapper{
-  background: rgb(173, 216, 230);
   flex-grow: 2;
 }
 
 .aside-section{
-  background: #4661e99c;
-  width: 100%;
+  width: 35%;
+  margin-top: 5%;
+  padding: 10px 0px;
   height: 100px;
   box-shadow: 1px 7px 5px #493d3d;
 }
@@ -73,7 +73,8 @@ nav ul li input{
 }
 
 .aside-section ul li{
-  width: 100%
+  width: 100%;
+  list-style: none;
 }
 
 .middle-section{
