@@ -47,7 +47,6 @@ nav ul li input{
   width: 100%;
   display: flex;
   border: 1px solid black;
-  background: #0620a247;
 }
 
 .mainSection .campusTag-row{
@@ -62,7 +61,7 @@ nav ul li input{
 }
 
 .aside-section{
-  width: 35%;
+  width: 25%;
   margin-top: 5%;
   padding: 10px 0px;
   height: 100px;
@@ -79,6 +78,7 @@ nav ul li input{
 
 .middle-section{
   width: 100%;
+  margin-top: 45px;
 }
 
 .middle-section h1{
@@ -86,8 +86,6 @@ nav ul li input{
 }
 
 .middle-section p{
-  margin-top: 52px;
-  background: #7487e9;
-  width: 63%;
+  width: 97%;
   box-shadow: 10px 5px 5px #493d3d;
 }
