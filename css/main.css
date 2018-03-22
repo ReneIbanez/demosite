@@ -92,3 +92,16 @@ nav ul li input{
 .middle-section p{
   width: 97%;
 }
+footer{
+  width: 100%;
+    display: flex;
+    FLEX-WRAP: wrap;
+    border: 1px solid;
+    /* float: left; */
+    clear: both;
+}
+footer div{
+  border: 1px solid green;
+  width: 30%;
+
+}
