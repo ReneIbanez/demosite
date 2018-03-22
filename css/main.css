@@ -95,13 +95,16 @@ nav ul li input{
 footer{
   width: 100%;
     display: flex;
-    FLEX-WRAP: wrap;
     border: 1px solid;
-    /* float: left; */
-    clear: both;
+    background-image: url('http://www.fullhdwpp.com/wp-content/uploads/Magdalene-College-Cambridge-night_www.FullHDWpp.com_.jpg');
+    background-repeat: repeat;
+    background-position: center;
+    height: 350px;
+
 }
 footer div{
   border: 1px solid green;
-  width: 30%;
+  width: 33.333%;
+
 
 }
