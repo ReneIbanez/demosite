@@ -92,6 +92,10 @@ nav ul li input{
 .middle-section p{
   width: 97%;
 }
+div div img{
+  width: 50%;
+  height: auto;
+}
 footer{
   width: 100%;
     display: flex;
