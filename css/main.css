@@ -95,6 +95,19 @@ nav ul li input{
 div div img{
   width: 50%;
   height: auto;
+  display: block;
+  margin: 0 auto;
+}
+div div h2{
+  position: relative;
+  color: red;
+  width: 100%;
+  text-align: center;
+  bottom: 110px;
+  font-size: 52px;
+}
+div div h2 strong{
+  color: blue;
 }
 footer{
   width: 100%;
