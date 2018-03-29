@@ -93,13 +93,14 @@ nav ul li input{
   width: 97%;
 }
 .ball-up-banner div{
-  background-color: #414180e3;
+  background-color: #8dafd3;;
 }
 div div img{
   width: 50%;
   height: auto;
   display: block;
   margin: 0 auto;
+  padding-top: 7%;
 }
 div div h2{
   position: relative;
