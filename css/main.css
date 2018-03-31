@@ -113,6 +113,14 @@ div div h2{
 div div h2 strong{
   color: blue;
 }
+
+div div p{
+  width: 30%;
+  margin: 0 auto;
+  text-align: left;
+  margin-top: -8%;
+  padding-bottom: 80px;
+}
 footer{
   width: 100%;
     display: flex;
