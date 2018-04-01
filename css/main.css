@@ -92,15 +92,23 @@ nav ul li input{
 .middle-section p{
   width: 97%;
 }
+.ball-up-banner{
+  background-color: #8dafd3;
+  display: flex;
+  justify-content: center;
+  flex-direction: row;
+  text-align: -webkit-center;
+}
 .ball-up-banner div{
-  background-color: #8dafd3;;
+  width: 100%;
 }
 div div img{
   width: 50%;
   height: auto;
   display: block;
   margin: 0 auto;
-  padding-top: 7%;
+  margin-top: 40px;
+  box-shadow: 5px -3px black;
 }
 div div h2{
   position: relative;
@@ -115,7 +123,7 @@ div div h2 strong{
 }
 
 div div p{
-  width: 30%;
+  width: 50%;
   margin: 0 auto;
   text-align: left;
   margin-top: -8%;
