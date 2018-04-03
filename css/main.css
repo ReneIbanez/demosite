@@ -145,3 +145,8 @@ footer div{
 
 
 }
+footer div a{
+  text-decoration: none;
+  color: white;
+  padding: 0 15px;
+}
