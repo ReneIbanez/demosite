@@ -108,7 +108,7 @@ div div img{
   display: block;
   margin: 0 auto;
   margin-top: 40px;
-  box-shadow: 5px -3px black;
+  box-shadow: 3px 4px #0000008f;;
 }
 div div h2{
   position: relative;
@@ -145,6 +145,14 @@ footer div{
 
 
 }
+footer div p{
+  width: 85%;
+  text-align: left;
+  display: block;
+  color: floralwhite;
+}
+
+
 footer div a{
   text-decoration: none;
   color: white;
