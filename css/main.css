@@ -46,7 +46,8 @@ nav ul li input{
 .mainSection{
   width: 100%;
   display: flex;
-  border: 1px solid black;
+  background-color: #ffdcae66;
+
 }
 
 .mainSection .campusTag-row{
@@ -91,6 +92,13 @@ nav ul li input{
 
 .middle-section p{
   width: 97%;
+}
+.middle-section div{
+  width: 100%;
+  background-color: green;
+}
+.Motivate{
+display: flex;
 }
 .ball-up-banner{
   background-color: #514762;
