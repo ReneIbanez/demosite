@@ -82,6 +82,7 @@ nav ul li input{
 }
 
 .middle-section{
+  display: flex;
   width: 100%;
   margin-top: 45px;
 }
@@ -97,8 +98,10 @@ nav ul li input{
   width: 100%;
   background-color: green;
 }
-.Motivate{
-display: flex;
+.motivate{
+  display: flex;
+  width: 100%;
+  background-color: black;
 }
 .ball-up-banner{
   background-color: #514762;
@@ -135,7 +138,7 @@ div div p{
   width: 50%;
   margin: 0 auto;
   text-align: left;
-  margin-top: -8%;
+  margin-top: -2%;
   padding-bottom: 80px;
 }
 footer{
