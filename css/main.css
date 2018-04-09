@@ -105,6 +105,18 @@ nav ul li input{
   width: 100%;
   background-color: black;
 }
+.motivate-wrapper h3{
+  color: white;
+  text-align: center;
+}
+.motivate-wrapper p{
+    width: 40%;
+    text-align: center;
+    color: white;
+    margin: 0 auto;
+    padding-bottom: 10%;
+
+}
 .ball-up-banner{
   background-color: #514762;
   display: flex;
