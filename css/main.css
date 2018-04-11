@@ -29,7 +29,7 @@ nav ul {
   justify-content: space-between;
   list-style: none;
   flex-direction: row;
-  background-color: rgb(255, 180, 117);
+  background-color: rgb(97, 183, 218);
 }
 
 nav ul li a{
@@ -46,7 +46,7 @@ nav ul li input{
 .mainSection{
   width: 100%;
   display: flex;
-  background-color: #ffdcae66;
+  background-color: #15517d66;
   padding-bottom: 100px;
 
 }
