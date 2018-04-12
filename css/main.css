@@ -29,7 +29,7 @@ nav ul {
   justify-content: space-between;
   list-style: none;
   flex-direction: row;
-  background-color: rgb(97, 183, 218);
+  background-color: rgba(249, 156, 56, 0.59);
 }
 
 nav ul li a{
@@ -106,7 +106,7 @@ nav ul li input{
   background-color: black;
 }
 .motivate-wrapper h3{
-  color: white;
+  color: #6f6f6f;
   text-align: center;
 }
 .motivate-wrapper p{
