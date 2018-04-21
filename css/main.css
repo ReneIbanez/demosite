@@ -20,9 +20,12 @@ width: 100%;
 
 header .header-container a{
   text-decoration: none;
-  color: white;
-  font-size: 25px;
-  }
+  color: #d7fffa;
+  font-size: 32px;
+  font-style: oblique;
+  font-family: fantasy;
+}
+}
 
 nav{
   width: 100%
@@ -183,7 +186,7 @@ footer div p{
   text-align: left;
   display: block;
   color: #50e279;
-  height: 187px;
+  height: 190px;
 
 }
 
