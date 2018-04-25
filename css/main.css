@@ -168,16 +168,17 @@ div div h2 strong{
 footer{
   width: 100%;
     display: flex;
+    flex-wrap: wrap;
     border: 1px solid;
     background-image: url('http://www.fullhdwpp.com/wp-content/uploads/Magdalene-College-Cambridge-night_www.FullHDWpp.com_.jpg');
     background-repeat: repeat;
     background-position: center;
-    height: 350px;
+    height: auto;
 
 }
 footer div{
   border: 1px solid green;
-  width: 33.333%;
+  width: 49%;
 
 
 }
@@ -197,4 +198,12 @@ footer div a{
   padding: 0 15px;
   font-size: 19px;
   font-family: sans-serif;
+}
+
+.glory-road{
+  width: 100%;
+}
+.glory-road .glory-road-wrapper h2{
+ color:green;
+
 }
