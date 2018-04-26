@@ -145,12 +145,13 @@ nav ul li input{
 }
 
 div div img{
-  width: 50%;
+  width: 100%;
   height: auto;
   display: block;
   margin: 0 auto;
   margin-top: 70px;
   box-shadow: 3px 4px #0000008f;
+  margin: 0 auto;
 }
 div div h2{
   position: relative;
