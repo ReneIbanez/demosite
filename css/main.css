@@ -122,7 +122,9 @@ nav ul li input{
     color: white;
     margin: 0 auto;
     padding-bottom: 10%;
-
+}
+.motivate-wrapper img{
+  width: 50%;
 }
 .ball-up-banner{
   background-color: #514762;
