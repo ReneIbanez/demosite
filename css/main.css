@@ -67,6 +67,7 @@ nav ul li input{
 
 .mainSection .campusTag-row .campusTag-wrapper{
   flex-grow: 2;
+      background-color: #1684909e;
 }
 
 .mainSection .campusTag-row .campusTag-wrapper a{
@@ -79,6 +80,7 @@ nav ul li input{
   margin-top: 5%;
   padding: 10px 0px;
   height: 100px;
+  background-color: #f35d5db3;
 }
 .aside-section ul{
   width: 100%;
