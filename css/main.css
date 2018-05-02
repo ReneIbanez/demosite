@@ -12,7 +12,6 @@ header{
   display: flex;
   margin-bottom: -16px;
   font-size: 20px;
-
 }
 header .header-container{
 width: 100%;
@@ -25,13 +24,13 @@ header .header-container a{
   font-style: oblique;
   font-family: fantasy;
 }
-}
 
-nav{
+
+.nav-bar{
   width: 100%
 }
 
-nav ul {
+.nav-bar ul {
   display: flex;
   justify-content: space-between;
   list-style: none;
@@ -39,11 +38,11 @@ nav ul {
   background-color: rgba(249, 156, 56, 0.59);
 }
 
-nav ul li a{
+.nav-bar ul li a{
    width: 30%;
 }
 
-nav ul li input{
+.nav-bar ul li input{
   text-decoration: none;
   color: white;
   border: 1px solid black;
