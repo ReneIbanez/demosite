@@ -138,6 +138,20 @@ header .header-container a{
 .ball-up-banner div{
   width: 100%;
 }
+.ball-up-banner h2 strong{
+  color: blue;
+
+}
+.ball-up-banner h2{
+  position: relative;
+  color: red;
+  width: 100%;
+  text-align: center;
+  bottom: 110px;
+  font-size: 52px;
+
+}
+
 .ball-up-banner p{
   color: white;
   width: 50%;
@@ -157,17 +171,7 @@ div div img{
   box-shadow: 3px 4px #0000008f;
   margin: 0 auto;
 }
-div div h2{
-  position: relative;
-  color: red;
-  width: 100%;
-  text-align: center;
-  bottom: 110px;
-  font-size: 52px;
-}
-div div h2 strong{
-  color: blue;
-}
+
 
 
 footer{
@@ -188,10 +192,10 @@ footer div{
 
 }
 footer div p{
-  width: 97%;
+  width: 60%;
   text-align: left;
   display: block;
-  color: #50e279;
+  color: #f9f6b6;
   height: 190px;
 
 }
@@ -209,6 +213,8 @@ footer div a{
   width: 100%;
 }
 .glory-road .glory-road-wrapper h2{
- color:green;
+  color: #a2dff7;
+  text-align: center;
+  font-size: 50px;
 
 }
