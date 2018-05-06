@@ -186,8 +186,9 @@ footer{
 
 }
 footer div{
-  border: 1px solid green;
-  width: 49%;
+  border: 1px solid yellow;
+/* width: 49%; */
+  max-width: 100%;
 
 
 }
