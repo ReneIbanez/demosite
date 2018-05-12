@@ -52,7 +52,7 @@ header .header-container a{
 .mainSection{
   width: 100%;
   display: flex;
-  background-color: #9c9c9c;
+  background-color: #6f4223;
   padding-bottom: 100px;
 
 }
@@ -163,7 +163,8 @@ header .header-container a{
 }
 
 div div img{
-  width: 100%;
+  width: 50%;
+  padding-top: 4px;
   height: auto;
   display: block;
   margin: 0 auto;
