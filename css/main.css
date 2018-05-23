@@ -65,7 +65,7 @@ header .header-container a{
 
 .mainSection .campusTag-row .campusTag-wrapper{
   flex-grow: 2;
-      
+
 }
 
 .mainSection .campusTag-row .campusTag-wrapper a{
@@ -186,8 +186,8 @@ footer{
 
 }
 footer div{
-  border: 1px solid yellow;
-/* width: 49%; */
+  border: 1px solid #ff1a00;
+  width: 49%;
   max-width: 100%;
 
 
@@ -210,12 +210,24 @@ footer div a{
   font-family: sans-serif;
 }
 
+
 .glory-road{
   width: 100%;
+  display: flex;
+}
+.glory-road .glory-road-wrapper{
+  width: 40%;
 }
 .glory-road .glory-road-wrapper h2{
   color: #a2dff7;
   text-align: center;
   font-size: 50px;
 
+}
+.study-road{
+  width: 50%;
+
+}
+.study-road .study-road-wrapper{
+  width: 100%;
 }
