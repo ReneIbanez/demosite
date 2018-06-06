@@ -52,8 +52,8 @@ header .header-container a{
 .mainSection{
   width: 100%;
   display: flex;
-  background-color: #062d8866;
-  padding-bottom: 100px;
+  background-color: #cbde6866;
+  padding-bottom: 150px;
 }
 
 .mainSection .campusTag-row{
